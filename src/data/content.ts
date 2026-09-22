@@ -256,7 +256,7 @@ export const quiz: QuizQuestion[] = [
     question: "what did we first bond over?",
     options: ["a song", "a block", "a fight"],
     correct: 1,
-    reaction: "yes! the song. the one we still play on repeat. 💕",
+    reaction: "suruat me hamko kitna tadpaya tha wo to ham he jaante hai madam.",
   },
   {
     id: "q3",
