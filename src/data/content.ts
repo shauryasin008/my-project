@@ -205,11 +205,12 @@ export const notes: Note[] = [
     body: "you're the plot twist I never saw coming and now can't imagine the story without.",
   },
   {
-  id: "n24",
-  type: "note",
-  title: "the list I keep in my head",
-  body: "things I love about you (incomplete, in no order):\n1. the way you text me when you miss me\n2. the way your messages always make my day better\n3. how you always make time to talk to me\n4. the way you defend me when other people are mean to me\n5. your voice on our calls\n6. the way you say \"hmm\" when you're thinking\n7. the little things you remember about me\n8. the fact that you're still here reading this\n9. everything else"
-},
+   id: "n24",
+   type: "note",
+   title: "the list I keep in my head",
+   body: "things I love about you (incomplete, in no order):\n1. the way you text me when you miss me\n2. the way your messages always make my day better\n3. how you always make time to talk to me\n4. the way you defend me when other people are mean to me\n5. your voice on our calls\n6. the way you say \"hmm\" when you're thinking\n7. the little things you remember about me\n8. the fact that you're still here reading this\n9. everything else"
+  },
+  {
     id: "n25",
     type: "tiny",
     body: "loving you is the easiest thing I've ever done.",
